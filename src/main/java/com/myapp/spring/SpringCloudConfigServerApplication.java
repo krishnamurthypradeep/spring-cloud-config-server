@@ -8,7 +8,7 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 // https://pastebin.com/MLmkU92v
 // added somethings
 // Added New Things One More Change
-// Added Some More
+// Added Some More dkjdkjdk
 @SpringBootApplication
 @EnableConfigServer
 public class SpringCloudConfigServerApplication  implements CommandLineRunner{
